@@ -1,3 +1,11 @@
+eta-plasma-themes (1.1) unstable; urgency=medium
+
+  * Change aurorae theme and remove others
+  * Pardus CI integration
+  * Update control file
+
+ -- Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>  Thu, 11 Oct 2018 13:17:14 +0300
+
 eta-plasma-themes (1.0) unstable; urgency=medium
 
   * Initial release.

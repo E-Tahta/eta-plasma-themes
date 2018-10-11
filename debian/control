@@ -11,5 +11,5 @@ Architecture: all
 Multi-Arch: foreign
 Depends: ${misc:Depends}
 Description: Etkileşimli Tahta Arayüzü Plasma Teması
- İçerisinde masaüstü ve pencere temasını barındıran ETAP a özel bir
+ İçerisinde pencere temasını barındıran ETAP a özel bir
  tema paketi.

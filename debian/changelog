@@ -1,3 +1,9 @@
+eta-plasma-themes (1.2) unstable; urgency=medium
+
+  * Ship the control of logo installation with eta-settings not with this package
+
+ -- Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>  Tue, 30 Oct 2018 09:43:56 +0300
+
 eta-plasma-themes (1.1) unstable; urgency=medium
 
   * Change aurorae theme and remove others
